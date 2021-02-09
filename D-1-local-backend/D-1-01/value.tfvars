@@ -1,0 +1,6 @@
+Email            = "gchoudhary@salesforce.com"
+environment-name = "d-1-test-app"
+Region           = "virginia"
+Team-name        = "sfdc-digital-nonprod"
+Private-space    = "space-level-monitoring-poc"
+postgresql-plan  = "heroku-postgresql:hobby-dev"
